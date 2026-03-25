@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #02020f;
+}
+div {
+    color:#115545
+}
+h1 {
+color: #115545;
+font-size: 60px;
+text-shadow: 5px 5px 5px #ffffff;
+text-align: center;
+
+}
+
+h2 {
+    color: #104d3f;
+    font-size: 40px;
+    font-style: italic;
+}
+    
+}
+h3 {
+    color: #104d3f;
+    font-size: 40px;
+    font-style: italic;
+
+}
+a {
+    color: #104d3f;
+    font-size: 40px;
+    text-decoration: none;
+    
+    
+}
+img {
+    width: 400px;
+    margin: 10px 0 0 123px;
+}
+.texto {
+    color: #073329;
+    font-size: 20px;
+    margin: 20px;
+}
